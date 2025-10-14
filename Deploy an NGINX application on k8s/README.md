@@ -3,6 +3,7 @@
 This project demonstrates how to deploy an **NGINX web server** on **Kubernetes** using YAML manifests, including a **custom HTML page** served via a **ConfigMap**. It covers creating a namespace, pod, deployment, service, and ConfigMap with volume mounts.
 
 ---
+![image](https://github.com/abhijitray7810/Kubernetes-Work/blob/2a08fc327bd315a256d9893c33c29b8da9a616d0/Deploy%20an%20NGINX%20application%20on%20k8s/Screenshot%202025-10-15%20010344.png)
 
 ## 🚀 **Features**
 
