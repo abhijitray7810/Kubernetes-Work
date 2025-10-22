@@ -12,7 +12,7 @@ This project demonstrates how to deploy an **NGINX web server** on **Kubernetes*
 * NodePort service to expose NGINX externally
 * Custom HTML page served using a ConfigMap
 * Fully automated YAML manifests for quick deployment
-
+ 
 ---
 
 ## 🗂️ **Project Files**
