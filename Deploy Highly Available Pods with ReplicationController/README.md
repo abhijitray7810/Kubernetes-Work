@@ -1,4 +1,4 @@
-# HTTPD ReplicationController Deployment
+ # HTTPD ReplicationController Deployment
 
 ## Overview
 This repository contains the Kubernetes ReplicationController configuration for deploying a highly available HTTPD web server infrastructure for the Nautilus DevOps team.
