@@ -1,5 +1,5 @@
 # Kubernetes Rolling Update - Command Reference
-
+ 
 ## Table of Contents
 - [Pre-Update Commands](#pre-update-commands)
 - [Rolling Update Execution](#rolling-update-execution)
